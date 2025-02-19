@@ -14,7 +14,6 @@ Built with **React.js** and **GraphQL (Hashnode API)**, this site automatically 
 
 ## **🛠 Tech Stack**
 - **Frontend:** React.js ⚛️
-- **Styling:** Minimalist, **monospace typewriter font** for a hacker/coding aesthetic
 - **API:** Hashnode GraphQL API  
 - **Proxy Server:** Node.js (for bypassing CORS restrictions)
 
