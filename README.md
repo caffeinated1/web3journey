@@ -1,10 +1,7 @@
-### **📌 Updated README for Web3Journey.fun**
-This README reflects the latest changes, including the **monospace typewriter font, fixed blog layout, and Hashnode API integration**.
-
----
-
 # **Web3Journey.fun** 🚀  
 *A minimal, hacker-style blog documenting my journey into Web3 security.*
+
+---
 
 ## **📌 Overview**  
 Web3Journey.fun is a **personal blog & learning hub** where I share insights on **Web3 security, smart contract vulnerabilities, and exploits**.  
@@ -13,9 +10,9 @@ Built with **React.js** and **GraphQL (Hashnode API)**, this site automatically 
 ---
 
 ## **🛠 Tech Stack**
-- **Frontend:** React.js ⚛️
+- **Frontend:** React.js ⚛️  
 - **API:** Hashnode GraphQL API  
-- **Proxy Server:** Node.js (for bypassing CORS restrictions)
+- **Proxy Server:** Node.js (for bypassing CORS restrictions)  
 
 ---
 
@@ -33,3 +30,46 @@ Built with **React.js** and **GraphQL (Hashnode API)**, this site automatically 
 ```sh
 git clone https://github.com/caffeinated1/web3journey.git
 cd web3journey
+```
+
+---
+Install Dependencies:
+
+```sh
+npm install
+node proxyServer.js
+=> localhost:5000
+npm start
+=> localhost:3000
+
+```
+API Setup 
+
+```sh
+Remember you post your hasnode (replace username)
+query {
+  user(username: "web3journey") {
+    publications(first: 1) {
+      edges {
+        node {
+          posts(first: 1) {
+            edges {
+              node {
+                title
+                slug
+                url
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
