@@ -46,7 +46,7 @@ npm start
 API Setup 
 
 ```sh
-Remember you post your hasnode (replace username)
+Remember you post your hashnode (replace username)
 query {
   user(username: "web3journey") {
     publications(first: 1) {
