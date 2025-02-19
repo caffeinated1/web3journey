@@ -1,12 +1,12 @@
 # Web3Journey.fun 🚀  
 
 ### **📌 What is this?**  
-This is **my personal journey** into **Web3 security, smart contract auditing, and cybersecurity**. As a former **competitive bodybuilder and AI fitness entrepreneur**, I realized that **every system—just like every physique—is only as strong as its weakest link.**  
+This is **my personal journey** into **Web3 security, smart contract auditing, and cybersecurity**. **Every system—just is only as strong as its weakest link.**  
 
-Now, I’m applying that **same discipline and precision** to become a **top Web3 security researcher**.  
+My goal is to be an effective solidity dev and  **top Web3 security researcher**.  
 
 📍 **Website:** [Web3Journey.fun](https://web3journey.fun) (Coming Soon)  
-📍 **Follow my journey:** [Twitter](https://twitter.com/YOURHANDLE) | [LinkedIn](https://linkedin.com/in/YOURPROFILE)  
+📍 **Follow my journey:** [Twitter](https://twitter.com/beerusLawd) | [LinkedIn](https://linkedin.com/in/daveespana)  
 
 ---
 
